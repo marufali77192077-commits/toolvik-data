@@ -1,0 +1,351 @@
+{
+ "schema": 1,
+ "key": "IN",
+ "dataset_version": "2026.10.1",
+ "official_source": "Department of Personnel & Training (DoPT), Government of India — yearly holiday Office Memorandum",
+ "source_url": "https://dopt.gov.in/notifications/orders",
+ "years": {
+  "2026": [
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-01-26",
+    "holiday_name": {
+     "en": "Republic Day",
+     "bn": "প্রজাতন্ত্র দিবস",
+     "hi": "गणतंत्र दिवस"
+    },
+    "holiday_type": "national",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-03-04",
+    "holiday_name": {
+     "en": "Holi",
+     "bn": "হোলি",
+     "hi": "होली"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-03-21",
+    "holiday_name": {
+     "en": "Id-ul-Fitr",
+     "bn": "ঈদ-উল-ফিতর",
+     "hi": "ईद-उल-फ़ित्र"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-03-26",
+    "holiday_name": {
+     "en": "Ram Navami",
+     "bn": "রামনবমী",
+     "hi": "राम नवमी"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-03-31",
+    "holiday_name": {
+     "en": "Mahavir Jayanti",
+     "bn": "মহাবীর জয়ন্তী",
+     "hi": "महावीर जयंती"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-04-03",
+    "holiday_name": {
+     "en": "Good Friday",
+     "bn": "গুড ফ্রাইডে",
+     "hi": "गुड फ्राइडे"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-05-01",
+    "holiday_name": {
+     "en": "Buddha Purnima",
+     "bn": "বুদ্ধ পূর্ণিমা",
+     "hi": "बुद्ध पूर्णिमा"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-05-27",
+    "holiday_name": {
+     "en": "Id-ul-Zuha (Bakrid)",
+     "bn": "ঈদ-উল-জুহা (বকরি ঈদ)",
+     "hi": "ईद-उल-जुहा (बकरीद)"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-06-26",
+    "holiday_name": {
+     "en": "Muharram",
+     "bn": "মহরম",
+     "hi": "मुहर्रम"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-08-15",
+    "holiday_name": {
+     "en": "Independence Day",
+     "bn": "স্বাধীনতা দিবস",
+     "hi": "स्वतंत्रता दिवस"
+    },
+    "holiday_type": "national",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-08-26",
+    "holiday_name": {
+     "en": "Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad)",
+     "bn": "মিলাদ-উন-নবী (হজরত মহম্মদের জন্মদিন)",
+     "hi": "मिलाद-उन-नबी या ईद-ए-मिलाद (पैगंबर मोहम्मद का जन्मदिन)"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-09-04",
+    "holiday_name": {
+     "en": "Janmashtami (Vaishnva)",
+     "bn": "জন্মাষ্টমী",
+     "hi": "जन्माष्टमी (वैष्णव)"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-10-02",
+    "holiday_name": {
+     "en": "Mahatma Gandhi's Birthday",
+     "bn": "মহাত্মা গান্ধীর জন্মদিন",
+     "hi": "महात्मा गांधी जयंती"
+    },
+    "holiday_type": "national",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-10-20",
+    "holiday_name": {
+     "en": "Dussehra",
+     "bn": "দশেরা (বিজয়া দশমী)",
+     "hi": "दशहरा"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-11-08",
+    "holiday_name": {
+     "en": "Diwali (Deepavali)",
+     "bn": "দীপাবলি",
+     "hi": "दीपावली"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-11-24",
+    "holiday_name": {
+     "en": "Guru Nanak's Birthday",
+     "bn": "গুরু নানকের জন্মদিন",
+     "hi": "गुरु नानक जयंती"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   },
+   {
+    "country": "IN",
+    "region": null,
+    "scope": "central",
+    "date": "2026-12-25",
+    "holiday_name": {
+     "en": "Christmas Day",
+     "bn": "বড়দিন",
+     "hi": "क्रिसमस"
+    },
+    "holiday_type": "gazetted",
+    "official_source": "Department of Personnel & Training (DoPT), Government of India — O.M. F.No.12/2/2023-JCA dated 3 July 2025 (Annexure-I)",
+    "source_url": "https://documents.doptcirculars.nic.in/D2/D02est/Holidays%20to%20be%20observed%20in%20Central%20Government%20Offices%20during%20the%20year%2020265vgBs.pdf",
+    "publication_date": "2025-07-03",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20251027055914 of the official URL; SHA-256 eee083efff2b4284fd96fb81af8ac0496ed5138cfc3ae3357531dd7f3d4df834"
+   }
+  ]
+ }
+}

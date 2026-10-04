@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "dataset_version": "2026.10.2",
+ "generated": "2026-10-04",
+ "files": {
+  "IN": {
+   "file": "IN.json",
+   "sha256": "ded5b73a8f800b48ef98a6d2bfa0705a9e224153d2506310cad307cb8bd44139",
+   "records": 17
+  },
+  "US": {
+   "file": "US.json",
+   "sha256": "7b7f861471937faf38bd98671f3a149b2dc610b9e3579cf98bfc3d440a64b850",
+   "records": 0
+  },
+  "GB": {
+   "file": "GB.json",
+   "sha256": "f2e2ba7a1545f7b21262152e8089df54ffdd10f094e7a4dfc1083a938de6c8cb",
+   "records": 0
+  },
+  "JP": {
+   "file": "JP.json",
+   "sha256": "2b14b706f614b4e9e0d1b4806028b172ba4ec4f3e16916bbcdb5a8bf2abe9a3f",
+   "records": 75
+  },
+  "AE": {
+   "file": "AE.json",
+   "sha256": "337e4cd674c9c2c10cb0cde95bddc61c47824be37a4985d66457c26a52150fc7",
+   "records": 0
+  },
+  "IN-WB": {
+   "file": "IN-WB.json",
+   "sha256": "f1bbd193d258b5dffebda893d2954865b4efddee0eba035be8aa62ecda2d2b14",
+   "records": 47
+  }
+ }
+}

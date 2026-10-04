@@ -1,0 +1,8 @@
+{
+ "schema": 1,
+ "key": "US",
+ "dataset_version": "2026.10.0",
+ "official_source": "U.S. Code, 5 U.S.C. 6103 (federal holidays) and the U.S. Office of Personnel Management observed-day rule",
+ "source_url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+ "years": {}
+}

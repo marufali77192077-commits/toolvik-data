@@ -1,0 +1,951 @@
+{
+ "schema": 1,
+ "key": "IN-WB",
+ "dataset_version": "2026.10.1",
+ "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification",
+ "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+ "years": {
+  "2026": [
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-01-01",
+    "holiday_name": {
+     "en": "New Year's Day",
+     "bn": "ইংরেজি নববর্ষ",
+     "hi": "नव वर्ष दिवस"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-01-12",
+    "holiday_name": {
+     "en": "Birthday of Swami Vivekananda",
+     "bn": "স্বামী বিবেকানন্দের জন্মদিন",
+     "hi": "स्वामी विवेकानंद जयंती"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-01-22",
+    "holiday_name": {
+     "en": "Day before Saraswati Puja",
+     "bn": "সরস্বতী পুজোর আগের দিন",
+     "hi": "सरस्वती पूजा से पहले का दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-01-23",
+    "holiday_name": {
+     "en": "Netaji's Birthday; Saraswati Puja [Sree Panchami]",
+     "bn": "নেতাজির জন্মদিন; সরস্বতী পুজো [শ্রীপঞ্চমী]",
+     "hi": "नेताजी जयंती; सरस्वती पूजा [श्री पंचमी]"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-01-26",
+    "holiday_name": {
+     "en": "Republic Day",
+     "bn": "প্রজাতন্ত্র দিবস",
+     "hi": "गणतंत्र दिवस"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-02-04",
+    "holiday_name": {
+     "en": "Shab-e-Barat",
+     "bn": "শবে বরাত",
+     "hi": "शब-ए-बारात"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-02-14",
+    "holiday_name": {
+     "en": "Birthday of Thakur Panchanan Barma",
+     "bn": "ঠাকুর পঞ্চানন বর্মার জন্মদিন",
+     "hi": "ठाकुर पंचानन बर्मा जयंती"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-03-03",
+    "holiday_name": {
+     "en": "Doljatra",
+     "bn": "দোলযাত্রা",
+     "hi": "डोलयात्रा"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-03-04",
+    "holiday_name": {
+     "en": "Holi (Day after Doljatra)",
+     "bn": "হোলি (দোলযাত্রার পরের দিন)",
+     "hi": "होली (डोलयात्रा के अगले दिन)"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-03-17",
+    "holiday_name": {
+     "en": "Birthday of Shri Shri Harichand Thakur",
+     "bn": "শ্রী শ্রী হরিচাঁদ ঠাকুরের জন্মদিন",
+     "hi": "श्री श्री हरिचंद ठाकुर जयंती"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-03-20",
+    "holiday_name": {
+     "en": "Day before Eid-Ul-Fitr",
+     "bn": "ঈদ-উল-ফিতরের আগের দিন",
+     "hi": "ईद-उल-फ़ित्र से पहले का दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-03-21",
+    "holiday_name": {
+     "en": "Eid-Ul-Fitr",
+     "bn": "ঈদ-উল-ফিতর",
+     "hi": "ईद-उल-फ़ित्र"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-03-26",
+    "holiday_name": {
+     "en": "Ram Navami",
+     "bn": "রামনবমী",
+     "hi": "राम नवमी"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-03-31",
+    "holiday_name": {
+     "en": "Mahavir Jayanti",
+     "bn": "মহাবীর জয়ন্তী",
+     "hi": "महावीर जयंती"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-04-03",
+    "holiday_name": {
+     "en": "Good Friday",
+     "bn": "গুড ফ্রাইডে",
+     "hi": "गुड फ्राइडे"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-04-14",
+    "holiday_name": {
+     "en": "Birthday of Dr. B. R. Ambedkar",
+     "bn": "ড. বি. আর. আম্বেদকরের জন্মদিন",
+     "hi": "डॉ. बी. आर. आंबेडकर जयंती"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-04-15",
+    "holiday_name": {
+     "en": "Bengali New Year's Day (Nababarsha)",
+     "bn": "বাংলা নববর্ষ",
+     "hi": "बंगाली नव वर्ष (नबबर्ष)"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-05-01",
+    "holiday_name": {
+     "en": "May Day; Buddha Purnima",
+     "bn": "মে দিবস; বুদ্ধ পূর্ণিমা",
+     "hi": "मई दिवस; बुद्ध पूर्णिमा"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-05-09",
+    "holiday_name": {
+     "en": "Birthday of Rabindranath Tagore",
+     "bn": "রবীন্দ্রনাথ ঠাকুরের জন্মদিন",
+     "hi": "रवींद्रनाथ टैगोर जयंती"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-05-26",
+    "holiday_name": {
+     "en": "Day before Id-Ud-Zoha (Bakrid)",
+     "bn": "ঈদ-উজ-জোহার (বকরি ঈদ) আগের দিন",
+     "hi": "ईद-उल-जुहा (बकरीद) से पहले का दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-05-27",
+    "holiday_name": {
+     "en": "Id-Ud-Zoha (Bakrid)",
+     "bn": "ঈদ-উজ-জোহা (বকরি ঈদ)",
+     "hi": "ईद-उल-जुहा (बकरीद)"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-06-26",
+    "holiday_name": {
+     "en": "Muharram",
+     "bn": "মহরম",
+     "hi": "मुहर्रम"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-07-16",
+    "holiday_name": {
+     "en": "Rathayatra",
+     "bn": "রথযাত্রা",
+     "hi": "रथयात्रा"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-08-15",
+    "holiday_name": {
+     "en": "Independence Day",
+     "bn": "স্বাধীনতা দিবস",
+     "hi": "स्वतंत्रता दिवस"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-08-26",
+    "holiday_name": {
+     "en": "Fateha-Dwaz-Daham",
+     "bn": "ফতেহা-দোয়াজ-দহম",
+     "hi": "फ़ातेहा-दोआज़-दहम"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "moon; Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-08-28",
+    "holiday_name": {
+     "en": "Rakhi Bandhan",
+     "bn": "রাখিবন্ধন",
+     "hi": "रक्षा बंधन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-09-04",
+    "holiday_name": {
+     "en": "Janmastami",
+     "bn": "জন্মাষ্টমী",
+     "hi": "जन्माष्टमी"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-09-17",
+    "holiday_name": {
+     "en": "Viswakarma Puja",
+     "bn": "বিশ্বকর্মা পুজো",
+     "hi": "विश्वकर्मा पूजा"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-02",
+    "holiday_name": {
+     "en": "Birthday of Gandhiji",
+     "bn": "গান্ধীজির জন্মদিন",
+     "hi": "गांधी जयंती"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-10",
+    "holiday_name": {
+     "en": "Mahalaya",
+     "bn": "মহালয়া",
+     "hi": "महालया"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-15",
+    "holiday_name": {
+     "en": "Durga Puja, Maha Chaturthi",
+     "bn": "দুর্গাপুজো, মহাচতুর্থী",
+     "hi": "दुर्गा पूजा, महा चतुर्थी"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-16",
+    "holiday_name": {
+     "en": "Durga Puja, Maha Panchami",
+     "bn": "দুর্গাপুজো, মহাপঞ্চমী",
+     "hi": "दुर्गा पूजा, महा पंचमी"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-17",
+    "holiday_name": {
+     "en": "Durga Puja, Maha Shashthi",
+     "bn": "দুর্গাপুজো, মহাষষ্ঠী",
+     "hi": "दुर्गा पूजा, महा षष्ठी"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-19",
+    "holiday_name": {
+     "en": "Durga Puja, Maha Astami",
+     "bn": "দুর্গাপুজো, মহাষ্টমী",
+     "hi": "दुर्गा पूजा, महा अष्टमी"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-20",
+    "holiday_name": {
+     "en": "Durga Puja, Maha Nabami",
+     "bn": "দুর্গাপুজো, মহানবমী",
+     "hi": "दुर्गा पूजा, महा नवमी"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-21",
+    "holiday_name": {
+     "en": "Durga Puja, Dasami",
+     "bn": "দুর্গাপুজো, দশমী",
+     "hi": "दुर्गा पूजा, दशमी"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-22",
+    "holiday_name": {
+     "en": "Additional Day for Durga Puja",
+     "bn": "দুর্গাপুজোর অতিরিক্ত দিন",
+     "hi": "दुर्गा पूजा का अतिरिक्त दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-23",
+    "holiday_name": {
+     "en": "Additional Day for Durga Puja",
+     "bn": "দুর্গাপুজোর অতিরিক্ত দিন",
+     "hi": "दुर्गा पूजा का अतिरिक्त दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-24",
+    "holiday_name": {
+     "en": "Additional Day for Durga Puja",
+     "bn": "দুর্গাপুজোর অতিরিক্ত দিন",
+     "hi": "दुर्गा पूजा का अतिरिक्त दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-10-26",
+    "holiday_name": {
+     "en": "Additional Day for Lakshmi Puja",
+     "bn": "লক্ষ্মীপুজোর অতিরিক্ত দিন",
+     "hi": "लक्ष्मी पूजा का अतिरिक्त दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-11-09",
+    "holiday_name": {
+     "en": "Additional Day for Kali Puja",
+     "bn": "কালীপুজোর অতিরিক্ত দিন",
+     "hi": "काली पूजा का अतिरिक्त दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-11-10",
+    "holiday_name": {
+     "en": "Additional Day for Kali Puja",
+     "bn": "কালীপুজোর অতিরিক্ত দিন",
+     "hi": "काली पूजा का अतिरिक्त दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-11-11",
+    "holiday_name": {
+     "en": "Bhratridwitiya",
+     "bn": "ভ্রাতৃদ্বিতীয়া",
+     "hi": "भ्रातृ द्वितीया"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-11-12",
+    "holiday_name": {
+     "en": "Day after Bhratridwitiya",
+     "bn": "ভ্রাতৃদ্বিতীয়ার পরের দিন",
+     "hi": "भ्रातृ द्वितीया के अगले दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-11-16",
+    "holiday_name": {
+     "en": "Additional Day for Chhat Puja",
+     "bn": "ছটপুজোর অতিরিক্ত দিন",
+     "hi": "छठ पूजा का अतिरिक्त दिन"
+    },
+    "holiday_type": "state",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-II",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-11-24",
+    "holiday_name": {
+     "en": "Birthday of Guru Nanak",
+     "bn": "গুরু নানকের জন্মদিন",
+     "hi": "गुरु नानक जयंती"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   },
+   {
+    "country": "IN",
+    "region": "IN-WB",
+    "scope": "state",
+    "date": "2026-12-25",
+    "holiday_name": {
+     "en": "Christmas Day",
+     "bn": "বড়দিন",
+     "hi": "क्रिसमस"
+    },
+    "holiday_type": "public",
+    "official_source": "Finance (Audit) Department, Government of West Bengal — yearly holiday notification — Notification No. 4188-F(P2) dated 27/11/2025, List-I",
+    "source_url": "https://wb.gov.in/pdf/Holiday-2026.pdf",
+    "publication_date": "2025-11-27",
+    "effective_year": 2026,
+    "last_verified": "2026-10-04",
+    "verification_status": "OFFICIAL_CONFIRMED",
+    "confidence": "high",
+    "notes": "Internet Archive capture 20260820060418 of the official URL; SHA-256 5bf11e1bdf392dcdcaf0bd77ce921b897e1d10cdb1a0d6fca43d0863b32ce339"
+   }
+  ]
+ }
+}
